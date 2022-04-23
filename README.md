@@ -4,4 +4,4 @@
 
 [Access the GitHub Example Website](https://oalhadheri.github.io/Homework_02/)
 
-![This is an image](assets\images\Example.png)![Example](https://user-images.githubusercontent.com/100745721/164944470-8d8ad07b-5f05-482a-bb6f-67902d45b634.png)
+![Example](https://user-images.githubusercontent.com/100745721/164944470-8d8ad07b-5f05-482a-bb6f-67902d45b634.png)
